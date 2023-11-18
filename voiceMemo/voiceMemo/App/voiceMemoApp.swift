@@ -10,6 +10,7 @@ struct voiceMemoApp: App {
   var body: some Scene {
     WindowGroup {
       OnboardingView()
+//        test2
     }
   }
 }
