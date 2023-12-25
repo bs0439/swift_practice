@@ -16,6 +16,7 @@
 		B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297512B39B1EE003717A0 /* GradientBasic.swift */; };
 		B69297542B39B47D003717A0 /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297532B39B47D003717A0 /* IconBasic.swift */; };
 		B69297562B39B613003717A0 /* ImageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297552B39B613003717A0 /* ImageBasic.swift */; };
+		B69297582B39B999003717A0 /* FrameBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297572B39B999003717A0 /* FrameBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		B69297512B39B1EE003717A0 /* GradientBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBasic.swift; sourceTree = "<group>"; };
 		B69297532B39B47D003717A0 /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
 		B69297552B39B613003717A0 /* ImageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBasic.swift; sourceTree = "<group>"; };
+		B69297572B39B999003717A0 /* FrameBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B65883422B389A3C00500F64 /* ShapeBasic.swift */,
 				B69297532B39B47D003717A0 /* IconBasic.swift */,
 				B69297552B39B613003717A0 /* ImageBasic.swift */,
+				B69297572B39B999003717A0 /* FrameBasic.swift */,
 				B692974F2B39AEF8003717A0 /* ColorBasic.swift */,
 				B69297512B39B1EE003717A0 /* GradientBasic.swift */,
 				B65883382B3896FE00500F64 /* Assets.xcassets */,
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B69297582B39B999003717A0 /* FrameBasic.swift in Sources */,
 				B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */,
 				B65883432B389A3C00500F64 /* ShapeBasic.swift in Sources */,
 				B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */,
