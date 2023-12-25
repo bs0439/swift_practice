@@ -17,6 +17,7 @@
 		B69297542B39B47D003717A0 /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297532B39B47D003717A0 /* IconBasic.swift */; };
 		B69297562B39B613003717A0 /* ImageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297552B39B613003717A0 /* ImageBasic.swift */; };
 		B69297582B39B999003717A0 /* FrameBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297572B39B999003717A0 /* FrameBasic.swift */; };
+		B692975A2B39BCC4003717A0 /* BackgroundOverlayBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297592B39BCC4003717A0 /* BackgroundOverlayBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B69297532B39B47D003717A0 /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
 		B69297552B39B613003717A0 /* ImageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBasic.swift; sourceTree = "<group>"; };
 		B69297572B39B999003717A0 /* FrameBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBasic.swift; sourceTree = "<group>"; };
+		B69297592B39BCC4003717A0 /* BackgroundOverlayBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				B69297552B39B613003717A0 /* ImageBasic.swift */,
 				B69297572B39B999003717A0 /* FrameBasic.swift */,
 				B692974F2B39AEF8003717A0 /* ColorBasic.swift */,
+				B69297592B39BCC4003717A0 /* BackgroundOverlayBasic.swift */,
 				B69297512B39B1EE003717A0 /* GradientBasic.swift */,
 				B65883382B3896FE00500F64 /* Assets.xcassets */,
 				B658833A2B3896FE00500F64 /* Preview Content */,
@@ -159,6 +162,7 @@
 				B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */,
 				B65883432B389A3C00500F64 /* ShapeBasic.swift in Sources */,
 				B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */,
+				B692975A2B39BCC4003717A0 /* BackgroundOverlayBasic.swift in Sources */,
 				B65883372B3896FD00500F64 /* ContentView.swift in Sources */,
 				B65883352B3896FD00500F64 /* SwiftUIBasicApp.swift in Sources */,
 				B69297562B39B613003717A0 /* ImageBasic.swift in Sources */,
