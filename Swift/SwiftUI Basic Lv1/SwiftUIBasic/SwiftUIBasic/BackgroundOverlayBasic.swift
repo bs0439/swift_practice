@@ -74,7 +74,7 @@ struct BackgroundOverlayBasic: View {
                                           )
                         )
                         .frame(width: 100, height: 100, alignment: .center)
-                        .shadow(color: .blue, radius: 10, x: 0.0, y: 10)
+                        .shadow(color: .blue, radius: 10, x: 0, y: 10)
                         .overlay(
                             Circle()
                                 .fill(.red)

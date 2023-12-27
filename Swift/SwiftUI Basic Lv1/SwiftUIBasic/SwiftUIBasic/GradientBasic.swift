@@ -40,7 +40,7 @@ struct GradientBasic: View {
                 .fill(
                     AngularGradient(gradient: Gradient(colors: [Color.blue, Color.green]),
                                     center: .topLeading,
-                                    angle: .degrees(180 + 45))
+                                    angle: .degrees(180))
                 )
                 .frame(width: 300, height: 200, alignment: .center)
             

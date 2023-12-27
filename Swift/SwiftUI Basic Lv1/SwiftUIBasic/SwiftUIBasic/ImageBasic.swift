@@ -10,11 +10,14 @@ import SwiftUI
 struct ImageBasic: View {
     var body: some View {
         VStack(spacing: 20) {
+            
             Image("manggom")
                 .resizable()
                 .scaledToFill()
-                .frame(width: 300, height: 300, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+                .frame(width: 300, height: 300, alignment: .center)
                 .cornerRadius(150)
+//                .background(.red)
+//                .frame(maxWidth: .infinity, alignment: .trailing)
             
             Divider()
             
