@@ -21,6 +21,7 @@
 		B692975C2B3C5A78003717A0 /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B692975B2B3C5A78003717A0 /* StackBasic.swift */; };
 		B692975E2B3C5EEB003717A0 /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B692975D2B3C5EEB003717A0 /* PaddingBasic.swift */; };
 		B69297602B3C618E003717A0 /* SpacerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B692975F2B3C618E003717A0 /* SpacerBasic.swift */; };
+		B69297622B3C63CA003717A0 /* ScrollViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297612B3C63CA003717A0 /* ScrollViewBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		B692975B2B3C5A78003717A0 /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		B692975D2B3C5EEB003717A0 /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
 		B692975F2B3C618E003717A0 /* SpacerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBasic.swift; sourceTree = "<group>"; };
+		B69297612B3C63CA003717A0 /* ScrollViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				B65883342B3896FD00500F64 /* SwiftUIBasicApp.swift */,
 				B65883362B3896FD00500F64 /* ContentView.swift */,
 				B65883422B389A3C00500F64 /* ShapeBasic.swift */,
+				B69297612B3C63CA003717A0 /* ScrollViewBasic.swift */,
 				B692975D2B3C5EEB003717A0 /* PaddingBasic.swift */,
 				B69297532B39B47D003717A0 /* IconBasic.swift */,
 				B69297552B39B613003717A0 /* ImageBasic.swift */,
@@ -178,6 +181,7 @@
 				B69297602B3C618E003717A0 /* SpacerBasic.swift in Sources */,
 				B65883352B3896FD00500F64 /* SwiftUIBasicApp.swift in Sources */,
 				B69297562B39B613003717A0 /* ImageBasic.swift in Sources */,
+				B69297622B3C63CA003717A0 /* ScrollViewBasic.swift in Sources */,
 				B69297542B39B47D003717A0 /* IconBasic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
