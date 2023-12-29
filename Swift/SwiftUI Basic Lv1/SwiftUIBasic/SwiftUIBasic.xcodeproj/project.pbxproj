@@ -16,6 +16,7 @@
 		B68ADD192B3EE7370009AE8A /* ForEachLoopBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD182B3EE7370009AE8A /* ForEachLoopBasic.swift */; };
 		B68ADD1B2B3EE8ED0009AE8A /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD1A2B3EE8ED0009AE8A /* LazyGridBasic.swift */; };
 		B68ADD1D2B3EF2810009AE8A /* ignoreSafeAreaBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD1C2B3EF2810009AE8A /* ignoreSafeAreaBasic.swift */; };
+		B68ADD1F2B3EF7670009AE8A /* ButtonBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD1E2B3EF7670009AE8A /* ButtonBasic.swift */; };
 		B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B692974F2B39AEF8003717A0 /* ColorBasic.swift */; };
 		B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297512B39B1EE003717A0 /* GradientBasic.swift */; };
 		B69297542B39B47D003717A0 /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297532B39B47D003717A0 /* IconBasic.swift */; };
@@ -39,6 +40,7 @@
 		B68ADD182B3EE7370009AE8A /* ForEachLoopBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopBasic.swift; sourceTree = "<group>"; };
 		B68ADD1A2B3EE8ED0009AE8A /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 		B68ADD1C2B3EF2810009AE8A /* ignoreSafeAreaBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ignoreSafeAreaBasic.swift; sourceTree = "<group>"; };
+		B68ADD1E2B3EF7670009AE8A /* ButtonBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBasic.swift; sourceTree = "<group>"; };
 		B692974F2B39AEF8003717A0 /* ColorBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBasic.swift; sourceTree = "<group>"; };
 		B69297512B39B1EE003717A0 /* GradientBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBasic.swift; sourceTree = "<group>"; };
 		B69297532B39B47D003717A0 /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				B65883342B3896FD00500F64 /* SwiftUIBasicApp.swift */,
 				B65883362B3896FD00500F64 /* ContentView.swift */,
 				B65883422B389A3C00500F64 /* ShapeBasic.swift */,
+				B68ADD1E2B3EF7670009AE8A /* ButtonBasic.swift */,
 				B68ADD1C2B3EF2810009AE8A /* ignoreSafeAreaBasic.swift */,
 				B68ADD1A2B3EE8ED0009AE8A /* LazyGridBasic.swift */,
 				B69297612B3C63CA003717A0 /* ScrollViewBasic.swift */,
@@ -196,6 +199,7 @@
 				B65883372B3896FD00500F64 /* ContentView.swift in Sources */,
 				B69297602B3C618E003717A0 /* SpacerBasic.swift in Sources */,
 				B65883352B3896FD00500F64 /* SwiftUIBasicApp.swift in Sources */,
+				B68ADD1F2B3EF7670009AE8A /* ButtonBasic.swift in Sources */,
 				B69297562B39B613003717A0 /* ImageBasic.swift in Sources */,
 				B69297622B3C63CA003717A0 /* ScrollViewBasic.swift in Sources */,
 				B69297542B39B47D003717A0 /* IconBasic.swift in Sources */,
