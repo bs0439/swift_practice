@@ -13,6 +13,7 @@
 		B658833C2B3896FE00500F64 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B658833B2B3896FE00500F64 /* Preview Assets.xcassets */; };
 		B65883432B389A3C00500F64 /* ShapeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65883422B389A3C00500F64 /* ShapeBasic.swift */; };
 		B68ADD172B3EE5280009AE8A /* InitEnumBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD162B3EE5280009AE8A /* InitEnumBasic.swift */; };
+		B68ADD192B3EE7370009AE8A /* ForEachLoopBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD182B3EE7370009AE8A /* ForEachLoopBasic.swift */; };
 		B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B692974F2B39AEF8003717A0 /* ColorBasic.swift */; };
 		B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297512B39B1EE003717A0 /* GradientBasic.swift */; };
 		B69297542B39B47D003717A0 /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297532B39B47D003717A0 /* IconBasic.swift */; };
@@ -33,6 +34,7 @@
 		B658833B2B3896FE00500F64 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B65883422B389A3C00500F64 /* ShapeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBasic.swift; sourceTree = "<group>"; };
 		B68ADD162B3EE5280009AE8A /* InitEnumBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnumBasic.swift; sourceTree = "<group>"; };
+		B68ADD182B3EE7370009AE8A /* ForEachLoopBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopBasic.swift; sourceTree = "<group>"; };
 		B692974F2B39AEF8003717A0 /* ColorBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBasic.swift; sourceTree = "<group>"; };
 		B69297512B39B1EE003717A0 /* GradientBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBasic.swift; sourceTree = "<group>"; };
 		B69297532B39B47D003717A0 /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				B68ADD162B3EE5280009AE8A /* InitEnumBasic.swift */,
+				B68ADD182B3EE7370009AE8A /* ForEachLoopBasic.swift */,
 				B65883342B3896FD00500F64 /* SwiftUIBasicApp.swift */,
 				B65883362B3896FD00500F64 /* ContentView.swift */,
 				B65883422B389A3C00500F64 /* ShapeBasic.swift */,
@@ -177,6 +180,7 @@
 				B68ADD172B3EE5280009AE8A /* InitEnumBasic.swift in Sources */,
 				B692975C2B3C5A78003717A0 /* StackBasic.swift in Sources */,
 				B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */,
+				B68ADD192B3EE7370009AE8A /* ForEachLoopBasic.swift in Sources */,
 				B65883432B389A3C00500F64 /* ShapeBasic.swift in Sources */,
 				B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */,
 				B692975A2B39BCC4003717A0 /* BackgroundOverlayBasic.swift in Sources */,
