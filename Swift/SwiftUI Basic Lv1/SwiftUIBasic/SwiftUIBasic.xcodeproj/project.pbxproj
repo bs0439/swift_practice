@@ -19,6 +19,9 @@
 		B68ADD1F2B3EF7670009AE8A /* ButtonBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD1E2B3EF7670009AE8A /* ButtonBasic.swift */; };
 		B68ADD212B3F04560009AE8A /* practice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD202B3F04560009AE8A /* practice.swift */; };
 		B68ADD232B4002A20009AE8A /* StateBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD222B4002A20009AE8A /* StateBasic.swift */; };
+		B68ADD252B40053B0009AE8A /* ExtractView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD242B40053B0009AE8A /* ExtractView.swift */; };
+		B68ADD272B40098E0009AE8A /* ExtractSubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD262B40098E0009AE8A /* ExtractSubView.swift */; };
+		B68ADD2A2B4009B90009AE8A /* itemBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68ADD292B4009B90009AE8A /* itemBasic.swift */; };
 		B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B692974F2B39AEF8003717A0 /* ColorBasic.swift */; };
 		B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297512B39B1EE003717A0 /* GradientBasic.swift */; };
 		B69297542B39B47D003717A0 /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69297532B39B47D003717A0 /* IconBasic.swift */; };
@@ -45,6 +48,9 @@
 		B68ADD1E2B3EF7670009AE8A /* ButtonBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBasic.swift; sourceTree = "<group>"; };
 		B68ADD202B3F04560009AE8A /* practice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practice.swift; sourceTree = "<group>"; };
 		B68ADD222B4002A20009AE8A /* StateBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBasic.swift; sourceTree = "<group>"; };
+		B68ADD242B40053B0009AE8A /* ExtractView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractView.swift; sourceTree = "<group>"; };
+		B68ADD262B40098E0009AE8A /* ExtractSubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubView.swift; sourceTree = "<group>"; };
+		B68ADD292B4009B90009AE8A /* itemBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemBasic.swift; sourceTree = "<group>"; };
 		B692974F2B39AEF8003717A0 /* ColorBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBasic.swift; sourceTree = "<group>"; };
 		B69297512B39B1EE003717A0 /* GradientBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBasic.swift; sourceTree = "<group>"; };
 		B69297532B39B47D003717A0 /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
@@ -92,6 +98,8 @@
 				B65883342B3896FD00500F64 /* SwiftUIBasicApp.swift */,
 				B65883362B3896FD00500F64 /* ContentView.swift */,
 				B65883422B389A3C00500F64 /* ShapeBasic.swift */,
+				B68ADD242B40053B0009AE8A /* ExtractView.swift */,
+				B68ADD262B40098E0009AE8A /* ExtractSubView.swift */,
 				B68ADD202B3F04560009AE8A /* practice.swift */,
 				B68ADD222B4002A20009AE8A /* StateBasic.swift */,
 				B68ADD1E2B3EF7670009AE8A /* ButtonBasic.swift */,
@@ -108,6 +116,7 @@
 				B69297512B39B1EE003717A0 /* GradientBasic.swift */,
 				B692975B2B3C5A78003717A0 /* StackBasic.swift */,
 				B65883382B3896FE00500F64 /* Assets.xcassets */,
+				B68ADD282B4009900009AE8A /* Component */,
 				B658833A2B3896FE00500F64 /* Preview Content */,
 			);
 			path = SwiftUIBasic;
@@ -119,6 +128,14 @@
 				B658833B2B3896FE00500F64 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B68ADD282B4009900009AE8A /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				B68ADD292B4009B90009AE8A /* itemBasic.swift */,
+			);
+			path = Component;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,7 +208,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B68ADD252B40053B0009AE8A /* ExtractView.swift in Sources */,
 				B69297582B39B999003717A0 /* FrameBasic.swift in Sources */,
+				B68ADD2A2B4009B90009AE8A /* itemBasic.swift in Sources */,
 				B68ADD172B3EE5280009AE8A /* InitEnumBasic.swift in Sources */,
 				B692975C2B3C5A78003717A0 /* StackBasic.swift in Sources */,
 				B69297502B39AEF8003717A0 /* ColorBasic.swift in Sources */,
@@ -201,6 +220,7 @@
 				B68ADD1B2B3EE8ED0009AE8A /* LazyGridBasic.swift in Sources */,
 				B69297522B39B1EE003717A0 /* GradientBasic.swift in Sources */,
 				B692975A2B39BCC4003717A0 /* BackgroundOverlayBasic.swift in Sources */,
+				B68ADD272B40098E0009AE8A /* ExtractSubView.swift in Sources */,
 				B692975E2B3C5EEB003717A0 /* PaddingBasic.swift in Sources */,
 				B65883372B3896FD00500F64 /* ContentView.swift in Sources */,
 				B69297602B3C618E003717A0 /* SpacerBasic.swift in Sources */,
